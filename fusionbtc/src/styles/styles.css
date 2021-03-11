@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,700;0,900;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.primary-title {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    margin: 50px 0 30px 0;
+}
+
+.wallet-title {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color: #43d39e;
+}
